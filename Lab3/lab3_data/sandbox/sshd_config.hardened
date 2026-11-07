@@ -1,0 +1,4 @@
+# OpenSSH Server Configuration
+Port 22
+PermitRootLogin no
+PasswordAuthentication no
